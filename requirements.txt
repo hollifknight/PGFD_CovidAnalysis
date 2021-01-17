@@ -3,6 +3,5 @@ numpy
 seaborn
 matplotlib
 datetime
-figure
 sklearn
 preprocessing
