@@ -1,8 +1,7 @@
 pandas
 numpy
 seaborn
-matplotlib.pyplot
+matplotlib
 datetime
-figure
 sklearn
 preprocessing
